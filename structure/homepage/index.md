@@ -1,4 +1,4 @@
-#GISquick
+# GISquick
 
 Open source geospatial data publishing platform
 
